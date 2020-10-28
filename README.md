@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Portfolio
+
+A simple portfolio site built with NextJS utilising static generation. 
