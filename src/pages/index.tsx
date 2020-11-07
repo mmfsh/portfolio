@@ -27,7 +27,7 @@ export default function Home() {
           Hi I'm Leo, a software engineer based in London working for
           Booking.com Transport.
         </p>
-        <Button href="/cv.pdf" style={Button.BUTTON_STYLES.PRIMARY}>
+        <Button href="/leo-sammarco-cv.pdf" style={Button.BUTTON_STYLES.PRIMARY}>
           View my CV
         </Button>
         <p className={styles.contact}>
