@@ -2,3 +2,7 @@
     border-radius: 50%;
     overflow: hidden;
 }
+
+.avatar img {
+    background: linear-gradient(45deg, #cfd9df, #e2ebf0);
+}
