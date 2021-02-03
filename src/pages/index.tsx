@@ -25,7 +25,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Hi I'm Leo, a software engineer based in London working for
-          Booking.com Transport.
+          Trainline.
         </p>
         <Button href="/leo-sammarco-cv.pdf" style={Button.BUTTON_STYLES.PRIMARY}>
           View my CV
@@ -34,7 +34,7 @@ export default function Home() {
           or
           <br />
           contact me at{" "}
-          <a href="mailto:leosammarco@hotmail.com">leosammarco@hotmail.com</a>
+          <a href="mailto:hi@leosammarco.com">hi@leosammarco.com</a>
         </p>
       </main>
     </div>
