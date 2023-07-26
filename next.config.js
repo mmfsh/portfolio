@@ -12,8 +12,13 @@ module.exports = {
         permanent: true,
       },
       {
-        source: '/outbound/ukfast',
-        destination: 'https://techmanchester.co.uk/',
+        source: '/outbound/trainline',
+        destination: 'https://www.thetrainline.com/',
+        permanent: true,
+      },
+      {
+        source: '/outbound/trainline-whitelabel',
+        destination: 'https://www.buytickets.crosscountrytrains.co.uk/',
         permanent: true,
       },
     ]
